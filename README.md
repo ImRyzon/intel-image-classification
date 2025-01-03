@@ -1,4 +1,4 @@
-# Image Classification using Convolutional Neural Networks
+# Image Classification using CNNs
 
 Convolutional Neural Networks (CNNs) are commonly used in tasks involving image analysis as they are designed to extract complex features from images due to its hierarchical nature.
 
