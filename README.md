@@ -1,8 +1,8 @@
-# Image Classification using CNNs
+# Image Classification using CNNs (Computer Vision)
 
 Convolutional Neural Networks (CNNs) are commonly used in tasks involving image analysis as they are designed to extract complex features from images due to its hierarchical nature.
 
-In this project, a simple CNN (from scratch) using TinyVGG architecture will be used to classify images into six different categories:
+In this project, a simple CNN from scratch using TinyVGG architecture will be used to classify images into six different categories:
 
 0. Building
 1. Forest
