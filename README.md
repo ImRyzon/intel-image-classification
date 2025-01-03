@@ -12,5 +12,6 @@ In this project, a simple CNN from scratch using TinyVGG architecture will be us
 5. Street
    
 The dataset can be found here: https://www.kaggle.com/datasets/puneet6060/intel-image-classification
+Details about the model architecture used: https://github.com/poloclub/cnn-explainer/tree/master/tiny-vgg
 
 ![alt text](https://github.com/ImRyzon/Intel-Image-Classification/blob/main/cover.png)
