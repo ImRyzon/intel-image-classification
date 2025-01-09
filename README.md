@@ -16,4 +16,7 @@ We will be using PyTorch as well as OpenCV for this computer vision task.
 The dataset can be found here: https://www.kaggle.com/datasets/puneet6060/intel-image-classification \
 Details about the model architecture used: https://github.com/poloclub/cnn-explainer/tree/master/tiny-vgg
 
+Other common benchmarks for image classification tasks are the CIFAR-10 and CIFAR-100 datasets by the University of Toronto:
+https://www.cs.toronto.edu/~kriz/cifar.html
+
 ![alt text](https://github.com/ImRyzon/Intel-Image-Classification/blob/main/cover.png)
