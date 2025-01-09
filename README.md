@@ -10,6 +10,8 @@ In this project, a simple CNN from scratch using TinyVGG architecture will be us
 3. Mountain
 4. Sea
 5. Street
+
+We will be using PyTorch as well as OpenCV for this computer vision task.
    
 The dataset can be found here: https://www.kaggle.com/datasets/puneet6060/intel-image-classification \
 Details about the model architecture used: https://github.com/poloclub/cnn-explainer/tree/master/tiny-vgg
